@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://bcs.duapp.com/microbiz/microBiz-V1.1-2905-Dev.ipa</string>
+					<string>http://qd.baidupcs.com/file/2aec4051e9f2da4d73aedbd6d631c666?bkt=p2-qd-594&amp;fid=425696842-250528-646832269742755&amp;time=1420710448&amp;sign=FDTAXERLBH-DCb740ccc5511e5e8fedcff06b081203-gOzhNl%2Bu0t5%2BnCW5xehwM6B7jdw%3D&amp;to=qb&amp;fm=Qin,B,U,nc&amp;newver=1&amp;newfm=1&amp;flow_ver=3&amp;sl=81723466&amp;expires=8h&amp;rt=sh&amp;r=430890948&amp;mlogid=1099479561&amp;vuk=425696842&amp;vbdid=1348668645&amp;fin=microBiz.ipa&amp;fn=microBiz.ipa</string>
 					<key>New item</key>
 					<string></string>
 				</dict>
@@ -21,7 +21,7 @@
 				<key>bundle-identifier</key>
 				<string>com.pujin.microbiz</string>
 				<key>bundle-version</key>
-				<string>1.2.1</string>
+				<string>1.2.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
